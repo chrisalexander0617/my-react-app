@@ -1,0 +1,24 @@
+.header 
+{
+  padding:20px;
+  background:#2B2D42;
+  color:white;
+  text-align: center;
+}
+
+.body
+{
+  padding-top:200px;
+  height: 400px;
+  text-align: center;
+  background:#D90429;
+  color:white;
+}
+
+.footer
+{
+  padding:20px;
+  background:#8D99AE;
+  color:white;
+  text-align: center;
+}
